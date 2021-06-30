@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="rainway-sdk" Version="0.1.1-alpha" />
+    <PackageReference Include="rainway-sdk" Version="0.1.1" />
   </ItemGroup>
 
 </Project>
